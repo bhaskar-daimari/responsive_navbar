@@ -1,6 +1,7 @@
 {
   "name": "edusity",
   "private": true,
+  "homepage": "https://bhaskar-daimari.github.io/responsive_navbar/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
